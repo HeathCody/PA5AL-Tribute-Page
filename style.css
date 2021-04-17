@@ -180,7 +180,7 @@ margin: 10px;
     font-size: 26px;
 }
 
-@media (max-width:800px) {
+@media (max-width:768px) {
 #ourstory p {
   font-size: 16px;
 }
